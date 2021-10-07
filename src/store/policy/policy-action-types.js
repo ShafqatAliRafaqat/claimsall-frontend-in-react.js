@@ -1,0 +1,11 @@
+export const POLICY_ADD = 'POLICY_ADD';
+export const POLICY_PROCESSING = 'POLICY_PROCESSING';
+export const POLICY_ERROR = 'POLICY_ERROR';
+export const POLICY_RESET = 'POLICY_RESET';
+export const POLICY_SET = 'POLICY_SET';
+export const POLICIES_SET = 'POLICIES_SET';
+export const POLICY_DELETE = 'POLICY_DELETE';
+export const POLICY_PAGINATION_SET = 'POLICY_PAGINATION_SET';
+
+
+

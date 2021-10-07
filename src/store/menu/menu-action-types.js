@@ -1,0 +1,2 @@
+export const ACTIVE_MENU = 'ACTION_ACTIVE_MENU';
+export const ACTIVE_SUB_MENU = 'ACTION_ACTIVE_SUB_MENU';

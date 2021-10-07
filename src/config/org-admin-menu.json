@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "icon": "/assets/icons/dashboard.svg",
+    "text": "Dashboard",
+    "href": "/"
+  },
+  {
+    "id": 2,
+    "icon": "",
+    "text": ""
+  },
+  {
+    "id": 3,
+    "icon": "/assets/icons/users.svg",
+    "text": "Employees",
+    "children": [
+      {
+        "id": 1,
+        "text": "Active Employees",
+        "href": "/users/all"
+      },
+      {
+        "id": 2,
+        "text": "Pending Employees",
+        "href": "/users/pending"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "/assets/icons/grades.svg",
+    "text": "Grades",
+    "href": "/grades/all"
+  },
+  {
+    "id": 5,
+    "icon": "/assets/icons/policy.svg",
+    "text": "Medical Policies",
+    "href": "/policies/all"
+  },
+  {
+    "id": 6,
+    "icon": "/assets/icons/roles.svg",
+    "text": "Roles",
+    "href": "/roles/all"
+  },
+  {
+    "id": 7,
+    "icon": "/assets/icons/claim.svg",
+    "text": "Claims",
+    "children": [
+      {
+        "id": 1,
+        "text": "Pending Claims",
+        "href": "/claims/pending"
+      },
+      {
+        "id": 2,
+        "text": "All Claims",
+        "href": "/claims/all"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "/assets/icons/workflow.svg",
+    "text": "Claim Workflow",
+    "href": "/process-flow"
+  }
+]

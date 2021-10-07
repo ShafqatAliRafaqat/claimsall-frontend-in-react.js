@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2174.5 2893.5 41 33.348">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a5a5a5;
+      }
+    </style>
+  </defs>
+  <g id="three-buildings" transform="translate(2175 2847.634)">
+    <g id="Group_50" data-name="Group 50" transform="translate(0 46.366)">
+      <path id="Path_68" data-name="Path 68" class="cls-1" d="M131.012,78.714h7.066V71.489h4.247v7.225h7.066V46.366H131.012ZM141.49,50.178h4.247v4.247H141.49Zm0,6.826h4.247v4.247H141.49Zm0,6.825h4.247v4.247H141.49Zm-6.825-13.651h4.247v4.247h-4.247Zm0,6.826h4.247v4.247h-4.247Zm0,6.825h4.247v4.247h-4.247Z" transform="translate(-120.201 -46.366)"/>
+      <path id="Path_69" data-name="Path 69" class="cls-1" d="M373.719,81.482v22.872h2.728v6.578h6.433V81.482Zm5.836,19.765h-3.867V97.381h3.866v3.867Zm0-6.214h-3.867V91.167h3.866v3.866Zm0-6.214h-3.867V84.953h3.866v3.866Z" transform="translate(-342.88 -78.584)"/>
+      <path id="Path_70" data-name="Path 70" class="cls-1" d="M0,110.932H6.433v-6.578H9.161V81.482H0ZM3.326,84.953H7.192v3.866H3.326Zm0,6.214H7.192v3.866H3.326Zm0,6.214H7.192v3.866H3.326Z" transform="translate(0 -78.584)"/>
+    </g>
+  </g>
+</svg>

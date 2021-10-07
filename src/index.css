@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    min-width: 100vw !important;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.hover:hover {
+    cursor: pointer;
+}
+
+.errorMsg {
+    color: red;
+    font-weight: bold;
+}
+
+.warningMsg {
+    color: orangered;
+    font-weight: bold;
+}
+
+.font-quicksand {
+    font-family: 'Muli', sans-serif !important;
+}
+
+.background-black {
+    background-color: #000;
+}
+
+.background-grey {
+    background-color: #323232;
+}
+
+.color-grey {
+    color: #323232;
+}
+
+.color-white {
+    color: #ddd
+}
+
+.v-align {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.hover:hover {
+    cursor: pointer;
+}
+
+.shadow {
+    background-color: white;
+    box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.2);
+    margin-bottom: 12px;
+}
+
+.navbar-icon {
+    height: 32px;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.thead-black {
+    padding: 5px;
+}
+
+.thead-black th {
+    background-color: black !important;;
+    color: white !important;
+    font-family: 'Muli', sans-serif !important;
+    font-weight: 400 !important;
+}
+
+.thead-black .ant-table-column-sorter, .anticon-filter {
+    color: white !important;
+}
+
+.category {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    padding: 12px;
+}
+
+.category-active {
+    font-size: 26px;
+}
+
+.row-background-grey:hover, .row-active {
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.form-headline {
+    font-size: 26px;
+    font-weight: 700;
+    text-align: left;
+    color: #777;
+    margin: 24px;
+}
+
+.color-background {
+    background-color: #F2F3F8;
+}
+
+.font-red {
+    color: red;
+}
+
+.ant-table-expand-icon-th {
+    display: none !important;
+}
+
+.ant-table-row-expand-icon-cell {
+    display: none !important;
+}

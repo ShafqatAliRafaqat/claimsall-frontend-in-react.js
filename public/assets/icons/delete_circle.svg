@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_37);
+      }
+    </style>
+    <filter id="Ellipse_37" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_306" data-name="Group 306" transform="translate(-1208 -385)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1208, 385)">
+      <circle id="Ellipse_37-2" data-name="Ellipse 37" class="cls-1" cx="15" cy="15" r="15" transform="translate(9 6)"/>
+    </g>
+    <g id="waste-bin" transform="translate(1226.6 398.5)">
+      <path id="Path_256" data-name="Path 256" class="cls-2" d="M37.379,14.49A1.412,1.412,0,0,0,38.8,15.546h5.389a1.412,1.412,0,0,0,1.423-1.055L46.679,4.145H36.315ZM43.57,5.7a.518.518,0,0,1,1.036,0l-.518,7.773a.518.518,0,0,1-1.036,0Zm-2.591,0a.518.518,0,1,1,1.036,0v7.773a.518.518,0,1,1-1.036,0Zm-2.073-.518a.518.518,0,0,1,.518.518l.518,7.773a.518.518,0,0,1-1.036,0L38.388,5.7A.518.518,0,0,1,38.906,5.182Zm7.462-3.108h-2.28V1.036C44.088.25,43.834,0,43.052,0H39.942a.906.906,0,0,0-1.036,1.036V2.074h-2.28a.8.8,0,0,0-.829.778.8.8,0,0,0,.829.778h9.742a.8.8,0,0,0,.829-.778A.8.8,0,0,0,46.368,2.074Zm-3.316,0H39.943V1.036h3.109V2.074Z" transform="translate(-35.797)"/>
+    </g>
+  </g>
+</svg>

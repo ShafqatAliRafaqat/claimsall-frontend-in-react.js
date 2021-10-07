@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.333 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a5a5a5;
+      }
+    </style>
+  </defs>
+  <g id="list-3" transform="translate(-6.5)">
+    <path id="Path_2012" data-name="Path 2012" class="cls-1" d="M28.109,0H6.5V40H37.833V9.724ZM28.5,2.276l7.057,7.057H28.5ZM7.833,38.667V1.333H27.167v9.333H36.5v28Z"/>
+    <path id="Path_2013" data-name="Path 2013" class="cls-1" d="M36.833,21H26.167a.667.667,0,1,0,0,1.333H36.833a.667.667,0,0,0,0-1.333Z" transform="translate(-6.333 -7)"/>
+    <path id="Path_2014" data-name="Path 2014" class="cls-1" d="M20.417,18.146,17.549,20.44l-.911-.911a.667.667,0,0,0-.943.943L17.029,21.8a.666.666,0,0,0,.887.049l3.333-2.667a.667.667,0,0,0-.833-1.041Z" transform="translate(-3 -6)"/>
+    <path id="Path_2015" data-name="Path 2015" class="cls-1" d="M36.833,32H26.167a.667.667,0,1,0,0,1.333H36.833a.667.667,0,0,0,0-1.333Z" transform="translate(-6.333 -10.667)"/>
+    <path id="Path_2016" data-name="Path 2016" class="cls-1" d="M20.417,29.146,17.549,31.44l-.911-.911a.667.667,0,0,0-.943.943L17.029,32.8a.666.666,0,0,0,.887.049l3.333-2.667a.667.667,0,0,0-.833-1.041Z" transform="translate(-3 -9.667)"/>
+    <path id="Path_2017" data-name="Path 2017" class="cls-1" d="M36.833,43H26.167a.667.667,0,1,0,0,1.333H36.833a.667.667,0,0,0,0-1.333Z" transform="translate(-6.333 -14.333)"/>
+    <path id="Path_2018" data-name="Path 2018" class="cls-1" d="M20.417,40.146,17.549,42.44l-.911-.911a.667.667,0,1,0-.943.943L17.029,43.8a.666.666,0,0,0,.887.049l3.333-2.667a.667.667,0,0,0-.833-1.041Z" transform="translate(-3 -13.333)"/>
+  </g>
+</svg>

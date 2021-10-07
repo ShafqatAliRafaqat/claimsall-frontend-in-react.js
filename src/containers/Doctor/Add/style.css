@@ -1,0 +1,13 @@
+.sub-menu{
+    font-size : 20px;
+    font-weight : 'bold';
+    padding: 12px;
+}
+
+.sub-menu:hover,.sub-menu-active {
+    font-size : 22px;
+    font-weight : 'bold';
+    padding: 12px;
+    background-color: #F2F3F8;
+}
+

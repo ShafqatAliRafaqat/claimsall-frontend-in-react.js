@@ -1,0 +1,1 @@
+export const INSURANCE_COMPANY_CODE = 'InsComp';

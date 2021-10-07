@@ -1,0 +1,60 @@
+.home-page {
+    position: relative;
+}
+
+.menu-bar {
+    width: 2vw;
+}
+
+.menu-bar-h2 {
+    color: #ddd;
+    margin: auto;
+    font-weight: 400;
+    font-size: 2vw;
+    font-family: 'Muli', sans-serif;
+}
+
+.menu-bar-item {
+    color: #ddd;
+    margin: 0;
+    font-weight: 400;
+    font-size: 1vw;
+    font-family: 'Muli', sans-serif;
+    text-align: left;
+}
+
+.menu-bar-item-hover:hover, .menu-bar-item-active {
+    color: white;
+    background-color: black;
+    margin-top: 1px;
+    font-weight: 400;
+    font-size: 1vw;
+    font-family: 'Muli', sans-serif;
+    cursor: pointer;
+}
+
+input[type="text"]:disabled {
+    color: #484848;
+}
+
+textarea:disabled {
+    color: #484848;
+}
+
+.Dropzone {
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: thin dashed #c2c2c2;
+    background: #fcfcfc;
+    padding: 16px 11px;
+    border-radius: 5px;
+}
+
+.Dropzone-content {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "icon": "/assets/icons/dashboard.svg",
+    "text": "Dashboard",
+    "href": "/"
+  },
+  {
+    "id": 2,
+    "icon": "",
+    "text": ""
+  },
+  {
+    "id": 3,
+    "icon": "/assets/icons/users.svg",
+    "text": "Users",
+    "href": "/users/all"
+  },
+  {
+    "id": 4,
+    "icon": "/assets/icons/organizations.svg",
+    "text": "Organizations",
+    "href": "/organizations/all"
+  },
+  {
+    "id": 5,
+    "icon": "/assets/icons/service_providers.svg",
+    "text": "Service Providers",
+    "href": "/service-providers"
+  },
+  {
+    "id": 6,
+    "icon": "/assets/icons/insurance_company.svg",
+    "text": "Insurance Companies",
+    "href": "/insurance-companies/all"
+  },
+  {
+    "id": 7,
+    "icon": "/assets/icons/care-services.svg",
+    "text": "Service Orders",
+    "children": [
+      {
+        "id": 1,
+        "text": "Pending",
+        "href": "/care-services/pending"
+      },
+      {
+        "id": 2,
+        "text": "History",
+        "href": "/care-services/history"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "/assets/icons/health_monitoring.svg",
+    "text": "Health Monitoring Types",
+    "href": "/health-monitor-fields/all"
+  }
+]
